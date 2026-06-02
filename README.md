@@ -47,7 +47,7 @@ OPENAI_API_KEY=your-key-here
 ```
 
 ### 4. Run the notebook
-Open `LangChain Agent Mama.ipynb` in Jupyter and run all cells. Change the topic to whatever you want!
+Open `LangGrap Agent Researcher.ipynb` in Jupyter and run all cells. Change the topic to whatever you want!
 
 ---
 
@@ -64,8 +64,7 @@ The agents will research, draft, and edit a complete blog post on the topic.
 
 ## Notes
 
-- `.env` is listed in `.gitignore` — your API key will never be committed
-- Model temperature is set to `0.7` for a balance of creativity and consistency
+- Model temperature is set to `0.7` for a balance of creativity and consistency (You can change it at will based on your use-case)
 - The graph can be visualized as a Mermaid diagram directly in the notebook
 
 ---
