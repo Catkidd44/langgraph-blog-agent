@@ -1,10 +1,6 @@
 # Agentic Research  Agent 
 
-> *Three AI agents walk into a blog post... one researches, one writes, one edits. The result? Actually pretty good.*
-
 A LangGraph exploration project that uses a **multi-agent pipeline** to turn any topic into a polished blog post — fully automated, from web research to final draft.
-
----
 
 ## How it works
 
