@@ -1,4 +1,4 @@
-# Agentic AI for Mama
+# Agentic Research  Agent 
 
 > *Three AI agents walk into a blog post... one researches, one writes, one edits. The result? Actually pretty good.*
 
